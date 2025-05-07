@@ -16,7 +16,7 @@
             </TrackingEvents>
 
             <VideoClicks>
-              <ClickThrough><![CDATA[]]></ClickThrough>
+              <ClickThrough><![CDATA[https://www.olx.pl/praca/?dclid=COvq2P-YkY0DFQOIgwcdcSMHgQ&gad_source=7&utm_campaign=olx_praca_05&utm_content=spot15s_nowa&utm_medium=videoone&utm_source=Mastermind]]></ClickThrough>
               <ClickTracking><![CDATA[https://ad.doubleclick.net/ddm/trackclk/N464420.110317WP.PL/B33499400.420424450;dc_trk_aid=613156316;dc_trk_cid=234583504;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};gpp=${GPP_STRING_755};gpp_sid=${GPP_SID};ltd=;dc_tdv=1]]></ClickTracking>
             </VideoClicks>
 
