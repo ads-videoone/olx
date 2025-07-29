@@ -1,35 +1,28 @@
-
 <VAST version="3.0">
   <Ad id="mm_sample-ad">
     <InLine>
       <AdSystem version="1.0">MM-System</AdSystem>
-      <AdTitle>OLX_04_Pad</AdTitle>
-      <Impression><![CDATA[https://ad.doubleclick.net/ddm/trackimp/N464420.110317WP.PL/B23861334.421205159;dc_trk_aid=613804062;dc_trk_cid=234999767;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};gpp=${GPP_STRING_755};gpp_sid=${GPP_SID};ltd=;dc_tdv=1?]]></Impression>
-
+      <AdTitle>olx_04_Pad</AdTitle>
+      <Impression><![CDATA[https://ad.doubleclick.net/ddm/trackimp/N464420.110317WP.PL/B33789374.426009351;dc_trk_aid=618542382;dc_trk_cid=238027871;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?]]></Impression>
       <Creatives>
         <Creative sequence="1" id="video1">
           <Linear>
-            <Duration>00:00:10</Duration>
-
+            <Duration>00:00:11</Duration>
             <TrackingEvents>
-              <Tracking event="complete"><![CDATA[https://ad.doubleclick.net/ddm/trackimp/N464420.110317WP.PL/B23861334.421205159;dc_trk_aid=613804062;dc_trk_cid=235037926;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};gpp=${GPP_STRING_755};gpp_sid=${GPP_SID};ltd=;dc_tdv=1?]]></Tracking>
+              <Tracking event="complete"><![CDATA[https://ad.doubleclick.net/ddm/trackimp/N464420.110317WP.PL/B33789374.426009351;dc_trk_aid=618542382;dc_trk_cid=238027120;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?]]></Tracking>
             </TrackingEvents>
-
             <VideoClicks>
-              <ClickThrough><![CDATA[https://www.olx.pl/elektronika/?courier=1&utm_source=Mastermind&utm_medium=videoone&utm_campaign=olx_electro_bts&utm_content=spot_pad]]></ClickThrough>
-              <ClickTracking><![CDATA[https://ad.doubleclick.net/ddm/trackclk/N464420.110317WP.PL/B33595687.422765926;dc_trk_aid=615558098;dc_trk_cid=236468387;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1]]></ClickTracking>
+              <ClickThrough><![CDATA[https://www.olx.pl/elektronika/?courier=1&dclid=CMGOjpKR4o4DFc7wEQgdcmMuDA&gad_source=7&utm_campaign=olx_electro&utm_content=spot_pad&utm_medium=CTV&utm_source=Mastermind]]></ClickThrough>
+              <ClickTracking><![CDATA[https://ad.doubleclick.net/ddm/trackclk/N464420.110317WP.PL/B33789374.426009351;dc_trk_aid=618542382;dc_trk_cid=238027871;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1]]></ClickTracking>
             </VideoClicks>
-
             <MediaFiles>
-              <MediaFile delivery="progressive" type="video/mp4" width="640" height="360" bitrate="500">
-                <![CDATA[https://videoone.adnext.pl/panel/olx/OLX_04_Pad.mp4]]>
+              <MediaFile delivery="progressive" type="video/mp4" width="1080" height="1920" bitrate="500">
+                <![CDATA[https://videoone.adnext.pl/panel/olx/olx_04_Pad.mp4]]>
               </MediaFile>
             </MediaFiles>
-
           </Linear>
         </Creative>
       </Creatives>
-
     </InLine>
   </Ad>
 </VAST>
