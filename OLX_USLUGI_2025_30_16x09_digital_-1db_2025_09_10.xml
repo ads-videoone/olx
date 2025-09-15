@@ -1,0 +1,28 @@
+<VAST version="3.0">
+  <Ad id="mm_sample-ad">
+    <InLine>
+      <AdSystem version="1.0">MM-System</AdSystem>
+      <AdTitle>OLX_USLUGI_2025_30_16x09_digital_-1db_2025_09_10</AdTitle>
+      <Impression><![CDATA[https://ad.doubleclick.net/ddm/trackimp/N464420.110317WP.PL/B33789374.426009351;dc_trk_aid=618542382;dc_trk_cid=240050172;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?]]></Impression>
+      <Creatives>
+        <Creative sequence="1" id="video1">
+          <Linear>
+            <Duration>00:00:30</Duration>
+            <TrackingEvents>
+              <Tracking event="complete"><![CDATA[https://ad.doubleclick.net/ddm/trackimp/N464420.110317WP.PL/B33789374.426009351;dc_trk_aid=618542382;dc_trk_cid=239450261;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?]]></Tracking>
+            </TrackingEvents>
+            <VideoClicks>
+              <ClickThrough><![CDATA[https://www.olx.pl/uslugi/budowa-remont/?utm_source=Mastermind&utm_medium=videoone&utm_campaign=olx_us³ugi_09&utm_content=spot30s]]></ClickThrough>
+              <ClickTracking><![CDATA[https://ad.doubleclick.net/ddm/trackclk/N464420.110317WP.PL/B33789374.426009351;dc_trk_aid=618542382;dc_trk_cid=240050172;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1]]></ClickTracking>
+            </VideoClicks>
+            <MediaFiles>
+              <MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080" bitrate="500">
+                <![CDATA[https://videoone.adnext.pl/panel/olx/OLX_USLUGI_2025_30_16x09_digital_-1db_2025_09_10.mp4]]>
+              </MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+</VAST>
